@@ -1,3 +1,4 @@
 # CalendarControlKit
 
-A description of this package.
+CalendarControlKit is a Calendar Control framework to build custom 
+calendar for iOS, macOS and tvOS.
