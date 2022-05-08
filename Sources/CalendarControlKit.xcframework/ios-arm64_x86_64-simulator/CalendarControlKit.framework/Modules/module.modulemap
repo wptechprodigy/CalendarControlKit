@@ -1,0 +1,11 @@
+framework module CalendarControlKit {
+  umbrella header "CalendarControlKit.h"
+
+  export *
+  module * { export * }
+}
+
+module CalendarControlKit.Swift {
+    header "CalendarControlKit-Swift.h"
+    requires objc
+}
